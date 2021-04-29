@@ -1,6 +1,6 @@
 h1{font-size:35px;
 font-color:blue
-font-family: Anton;
+font-family: 'Lobster', cursive;
 }
 
 body{
@@ -10,7 +10,7 @@ body{
 
 <style>
 @font-face {
-    font-family: Anton;
+    font-family: 'Lobster', cursive;
     src: url(Anton-Regular.tff)
 }
 </style>
