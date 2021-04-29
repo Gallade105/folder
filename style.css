@@ -1,11 +1,15 @@
-h1{font-size:35px;
-font-color:blue
+h1{font-size:40px;
+    font-family: 'Karantina', cursive;
 }
 
 body{
     font-size: 20px;
     background-color: skyblue;
     font-family: 'Roboto', sans-serif;
+}
+
+main{
+    font-family: serif;
 }
 
 *{
