@@ -1,11 +1,19 @@
 h1{font-size:35px;
-font-color:blue}
+font-color:blue
+font-family: Anton;
+}
 
 body{
     font-size: 20px;
     background-color: skyblue;
 }
 
+<style>
+@font-face {
+    font-family: Anton;
+    src: url(Anton-Regular.tff)
+}
+</style>
 
 
 *{
