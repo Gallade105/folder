@@ -72,3 +72,21 @@ nav ul li ul li a:hover {
      background-image: url(images/orange.jpg);
      background-size: cover;
  }
+
+ table {border-collapse: collapse}
+
+ table th {
+     text-align: left;
+     background-color: darkorange;
+     color: #FFF;
+     padding: 4px 30px 4px 8px;
+ }
+
+ table td {
+     border: 1px solid #e3e3e3;
+     padding: 4px 8px;
+ }
+
+ table tr:nth-child(odd) td {
+     background-color: sandybrown;
+ }
